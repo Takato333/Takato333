@@ -5,23 +5,7 @@
 新しい技術を学び続け、価値のあるシステムを提供することに情熱を持っています。
 
 ## 🌐 SNS:
-<p align="center">
-  <a href="https://discord.gg/yKgvPQQV" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord" height="30" style="margin: 0 5px;"/>
-  </a>
-  <a href="https://facebook.com/TakatoChun/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" height="30" style="margin: 0 5px;"/>
-  </a>
-  <a href="https://instagram.com/_takato_t/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" height="30" style="margin: 0 5px;"/>
-  </a>
-  <a href="https://linkedin.com/in/takato333/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" height="30" style="margin: 0 5px;"/>
-  </a>
-  <a href="mailto:vanphuquocthinh2004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" height="30" style="margin: 0 5px;"/>
-  </a>
-</p>
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/yKgvPQQV) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/TakatoChun/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_takato_t/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/takato333/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vanphuquocthinh2004@gmail.com) 
 
 
 # 💻 技術スタック:
