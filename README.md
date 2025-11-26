@@ -1,52 +1,31 @@
-# Hi, I'm Thịnh Văn 👋
-Full-stack Developer | Java, Spring Boot, ReactJS | BrSE (JLPT N4 → N3)
+# こんにちは、私はThịnh Vănです 👋
+フルスタック開発者 | Java, Spring Boot, ReactJS | BrSE
 
-I build scalable, high-quality web applications and bridge communication between development teams and Japanese clients. Passionate about learning new technologies and delivering long-term value.
+日本のお客様と開発チームの橋渡しをしながら、スケーラブルで高品質なWebアプリケーションを構築しています。  
+新しい技術を学び続け、価値のあるシステムを提供することに情熱を持っています。
 
----
+## 🌐 SNS:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/yKgvPQQV) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/TakatoChun/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_takato_t/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/takato333/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vanphuquocthinh2004@gmail.com) 
 
-## 🔧 Tech Stack
+# 💻 技術スタック:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ... (vẫn giữ tất cả badges gốc)
 
-**Backend:** Java, Spring Boot, Hibernate, JPA, .NET Core, ASP.NET Core  
-**Frontend:** ReactJS, HTML5, CSS3, JavaScript, Bootstrap  
-**Databases:** MySQL, SQL Server, MongoDB  
-**Testing & Logging:** JUnit, xUnit, MSTest, Log4j, Postman  
-**Tools & IDEs:** IntelliJ IDEA, Eclipse, Visual Studio, VS Code, MySQL Workbench, Chrome DevTools, Git  
-**Others:** RESTful API, JWT Authentication, MVC Architecture, OOP, Clean Code, Agile/Scrum  
+# 📊 GitHub 統計:
+![](https://github-readme-stats.vercel.app/api?username=Takato333&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Takato333&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Takato333&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+## 🏆 GitHub トロフィー
+![](https://github-profile-trophy.vercel.app/?username=Takato333&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 💻 Projects
+### ✍️ ランダム開発名言
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### [Hair Harmony](https://github.com/yourusername/hair-harmony)  
-Salon management system with booking, stylist scheduling, slot management, loyalty points, and payment integration.  
-**Tech Stack:** Java, Spring Boot, MySQL, ReactJS, REST API, JWT
-
-### [Lawyer Booking](https://github.com/yourusername/basico-lawyer)  
-Full-stack platform connecting clients with lawyers for consultation booking and case management.  
-**Tech Stack:** C#, .NET Core, SQL Server, ReactJS, REST API, JWT
-
-### [Other Projects](https://github.com/yourusername?tab=repositories)  
-Additional projects demonstrating frontend, backend, and full-stack skills.
+### 🔝 最も貢献したリポジトリ
+![](https://github-contributor-stats.vercel.app/api?username=Takato333&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
-## 📊 GitHub Stats
+[![](https://visitcount.itsvg.in/api?id=Takato333&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Thinh's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-
----
-
-## 📫 Contact
-
-- Email: your.email@example.com  
-- LinkedIn: [https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile/)  
-- Portfolio: [https://yourportfolio.com](https://yourportfolio.com)  
-
----
-
-## 🎯 Goals
-
-- Grow as a Bridge SE connecting Vietnamese teams with Japanese clients  
-- Improve Japanese proficiency (currently JLPT N4, preparing for N3)  
-- Contribute to innovative web applications and open-source projects
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
